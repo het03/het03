@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on [Portfolio](https://github.com/het03/Portfolio.git)
+- 🔭 I’m currently working on [E-Commerce](https://github.com/het03/E-Commerce)
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Anything within my tech stack
