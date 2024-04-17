@@ -95,7 +95,6 @@
 
 [![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=het03&theme=radical)](https://github.com/het03/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=het03&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=het03&theme=radical)](https://github.com/het03/github-profile-trophy) 
 
 <br />
 
