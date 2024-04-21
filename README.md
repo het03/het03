@@ -7,13 +7,6 @@
 
 <br />
 
-## 🔥 Streak Stats
-<br />
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=het03&theme=radical" alt="candida18" /></p>
-
-<br />
-
 ## 🛠️ My skills
 
 - ### Programming Language
